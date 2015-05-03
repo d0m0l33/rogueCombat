@@ -1,0 +1,6 @@
+12X10 de7 dw2 ds8 dn2 g8,7 m5,3 h2,4 p5,8 p5,7 w9,2 g3,4 m2,5 w7,3 
+10X6 de4 dw7 ds4 dn2 g8,4 m3,4 p2,3 h4,5
+14X10 dn4 ds4 de6 dw9 p4,8 g2,1 w2,9 m9,9 h6,4 g3,2 g3,4 
+20X20 de4 dw14 dn2 g8,7 m18,3 h6,5 m5,7 m3,4 g10,5 w13,13 w6,7 w7,6 p7,8 
+10X12 de4 dn3 m4,6 h3,5 ds4
+10X10 de4 dw5 ds8 dn2 w4,3 w2,4 
